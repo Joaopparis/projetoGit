@@ -12,3 +12,5 @@ CREATE TABLE tbProfessor(
     Nome_Professor VARCHAR(50),
     Telefone_Professor VARCHAR(50)
 )
+
+SELECT * FROM tbAluno
